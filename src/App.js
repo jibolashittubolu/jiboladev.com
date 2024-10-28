@@ -6,7 +6,7 @@ import { ThemeProvider, createTheme } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
 import ThemeToggler from './components/ThemeToggler/ThemeToggler.jsx'
 import useCheckDarkMode from "./hooks/useCheckDarkMode/useCheckDarkMode.js";
-import { Email, GitHub, LinkedIn, MailOutline, Settings, WorkHistory } from "@mui/icons-material";
+import { Email, GitHub, LinkedIn, MailOutline, Settings, WorkHistory } from "@mui/icons-material"; 
 
 
 
