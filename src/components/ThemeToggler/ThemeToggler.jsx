@@ -1,7 +1,7 @@
 import React from 'react'
 
 const ThemeToggler = () => {
-  const togglers = () => {
+  const togglers = () => { 
     var themeToggleDarkIcon = document.getElementById('theme-toggle-dark-icon');
     var themeToggleLightIcon = document.getElementById('theme-toggle-light-icon');
 
