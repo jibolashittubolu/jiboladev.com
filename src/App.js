@@ -1,6 +1,5 @@
 import "./app.scss";
 import { BrowserRouter, Routes, Route, useLocation, Navigate, useNavigate} from "react-router-dom";
-
 import PageNotFound from "./pages/400/404/PageNotFound.jsx";
 import { ThemeProvider, createTheme } from "@mui/material/styles";
 import CssBaseline from "@mui/material/CssBaseline";
